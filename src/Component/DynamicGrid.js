@@ -7,6 +7,7 @@ const DynamicGrid = () => {
   return (
     <div>
       helllo
+      <h1>welcome to git</h1>
     </div>
   )
 }
